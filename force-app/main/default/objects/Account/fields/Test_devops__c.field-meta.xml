@@ -3,7 +3,7 @@
     <fullName>Test_devops__c</fullName>
     <externalId>false</externalId>
     <label>Test devops</label>
-    <length>50</length>
+    <length>20</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
